@@ -9,3 +9,8 @@ with col1:
 
 with col2:
     st.write("Campus X is an online platform")
+
+st.header("Caurses")
+st.subheader("DSMP")
+st.subheader("DAMP")
+st.subheader("DEMP")
